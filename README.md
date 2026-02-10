@@ -14,6 +14,3 @@ Shipping features that handle real-world use cases.
 
 📧 o.sophin29@gmail.com
 
----
-
-*5+ years building production software*
